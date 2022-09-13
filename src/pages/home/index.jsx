@@ -180,7 +180,7 @@ function Newsletter() {
           reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
           pariatur.
         </p>
-        <div className="space-e">
+        <div className="space-evenly">
           <label></label>
           <input></input>
           <button>Subscribe</button>
